@@ -3,3 +3,4 @@ test branch
 rebase test
 reba test new
 add commit
+add add commit
